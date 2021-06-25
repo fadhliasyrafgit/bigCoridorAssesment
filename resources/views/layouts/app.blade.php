@@ -36,7 +36,7 @@
         <nav class="navbar navbar-expand-md navbar-light bg-white shadow-sm">
             <div class="container">
                 <a class="navbar-brand d-flex" href="{{ url('/') }}">
-                    <div><img class="pr-3" src="/storage/logo/logoXL.png" style="height:20px"></div>
+                    <div><img class="pr-3" src="https://www.corridor.my/wp-content/uploads/2019/05/logoXL.png" style="height:20px"></div>
                     <div>Big Coridor Admin Dashboard</div>
                     
                 </a>
