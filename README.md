@@ -23,14 +23,14 @@
 
 6.Make necessary update on db config if needed in .env file
 
-5.Run php artisan migrate
+7.Run php artisan migrate
 
-6.Run rm -rf public/storage
+8.Run rm -rf public/storage
 
-6.Run php artisan storage:link
+9.Run php artisan storage:link
 
-6.Run php artisan db:seed
+10.Run php artisan db:seed
 
-6.Run php artisan serve
+11.Run php artisan serve
 
-7.Go to link localhost:8000
+12.Go to link localhost:8000
